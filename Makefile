@@ -20,5 +20,9 @@ clean: down
 	rm -f api
 	docker system prune -f
 	docker volume prune -f
+	docker-compose stop
+	docker images
+	docker ps
+	docker volume ls
 
 # docker build -f cmd/api/Dockerfile -t api .

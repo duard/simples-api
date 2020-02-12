@@ -1,6 +1,6 @@
 FROM golang:1.13.4
 
-WORKDIR /go-lang/src/github.com/duard/fiber-1
+WORKDIR /go-lang/src/github.com/duard/simples-api
 
 COPY . .
 

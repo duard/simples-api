@@ -6,4 +6,4 @@ services:
     ports:
       - 5000:5000
     volumes:
-      - ./:/go-lang/src/github.com/duard/fiber-1
+      - ./:/go-lang/src/github.com/duard/simples-api
