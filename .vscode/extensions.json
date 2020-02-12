@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "mikestead.dotenv",
+    "humao.rest-client",
+    "zhuangtongfa.Material-theme",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "aaron-bond.better-comments",
+    "CoenraadS.bracket-pair-colorizer",
+    "ms-vscode-remote.vscode-remote-extensionpack"
+  ]
+}
